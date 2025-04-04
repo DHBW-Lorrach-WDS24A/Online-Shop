@@ -46,6 +46,7 @@ Unser Webshop basiert auf modernen Web-Technologien:
 Bei Fragen oder Feedback erreicht ihr uns unter: **baumanni@dhbw-loerrach.de**
 
 ---
+<<<<<<< Updated upstream
 
 ## 🧠 Brainstorming
 ``` 
@@ -63,5 +64,7 @@ webshop
 └── checkout-page
 ```
 ---
+=======
+>>>>>>> Stashed changes
 🎉 Viel Spaß beim Shoppen & Lernen! 🚀
 
