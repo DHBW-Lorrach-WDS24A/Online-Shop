@@ -31,8 +31,8 @@ Unser Webshop basiert auf modernen Web-Technologien:
    ```
 2. **In das Projektverzeichnis wechseln:**
    ```bash
-   
-   ```
+   cd Online-Shop
+    ```
 3. **Abhängigkeiten installieren:**
    ```bash
    
