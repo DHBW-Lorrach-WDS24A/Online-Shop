@@ -22,7 +22,7 @@ Unser Webshop basiert auf modernen Web-Technologien:
 ✅ Kategorien für Must-Haves & Prüfungslösungen  
 ✅ Sichere Zahlungsabwicklung  
 ✅ Benutzerkonten & Favoritenliste  
-✅ Responsive Design für mobile Nutzung  
+
 
 ## 📌 Installation & Setup
 1. **Repository klonen:**
